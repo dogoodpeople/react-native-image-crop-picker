@@ -22,5 +22,5 @@ android {
 dependencies {
     implementation 'com.facebook.react:react-native:+'
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
-    implementation 'com.github.dogoodpeople:uCrop:accessibility~add_basic_accessibility-SNAPSHOT'
+    implementation 'com.github.dogoodpeople:uCrop:accessibility~add_basic_accessibility-a5d3ec9e2e-1'
 }
